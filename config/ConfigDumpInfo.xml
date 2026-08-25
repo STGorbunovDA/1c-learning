@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.Клиенты" id="33521735-ad8e-4102-9f0c-e39f6f972762" configVersion="a9ea354898c93647abaac89a09f5996800000000">
+			<Metadata name="Catalog.Клиенты.Attribute.Телефон" id="33f1c0fd-b588-4e65-9f25-0a435d77d831"/>
+			<Metadata name="Catalog.Клиенты.Attribute.Комментарий" id="3f767572-87ac-44c1-a98d-06b824e28d27"/>
+			<Metadata name="Catalog.Клиенты.Attribute.ДатаРегистрации" id="90a4bcca-26b3-4291-b354-0c06ea410078"/>
+			<Metadata name="Catalog.Клиенты.Attribute.Email" id="a74324d3-51b6-4387-bfe4-e745f53441c3"/>
+		</Metadata>
+		<Metadata name="Configuration.СервисныйЦентр" id="6f66b3e0-f88f-42cd-9c41-efc9384028f3" configVersion="3988ec17b4167d48b1fc63f574f80dac00000000"/>
+		<Metadata name="Language.Русский" id="d03212ea-a1b5-4b8f-ab23-32cfabb5f026" configVersion="a28af9c30ea02c4291dddfc3cadd700600000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
